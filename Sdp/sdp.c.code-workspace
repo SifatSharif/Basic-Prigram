@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "E:/SDP/SdpEx"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bitset": "c",
+			"chrono": "c",
+			"algorithm": "c",
+			"cmath": "c",
+			"complex": "c"
+		}
+	}
+}

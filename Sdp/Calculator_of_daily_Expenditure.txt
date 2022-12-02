@@ -1,0 +1,5 @@
+Date 5:
+potato: 23 
+fish: 12 
+meat: 100 
+tometo: 12 
